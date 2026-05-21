@@ -1,6 +1,6 @@
 # Course Work Artem Serbulov
 
-Optimizing YOLO-based Small Object Detection for Autonomous UAVs: A Sim-to-Real Approach via Isaac Sim and Explainable AI
+Optimizing YOLO-based Small Object Detection for Autonomous UAVs: A Sim-to-Real Approach via Air Sim and Explainable AI
 
 ## Project Organization
 

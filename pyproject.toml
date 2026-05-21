@@ -5,7 +5,7 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "src"
 version = "0.0.1"
-description = "Optimizing YOLO-based Small Object Detection for Autonomous UAVs: A Sim-to-Real Approach via Isaac Sim and Explainable AI"
+description = "Optimizing YOLO-based Small Object Detection for Autonomous UAVs: A Sim-to-Real Approach via Air Sim and Explainable AI"
 authors = [
   { name = "Artem Serbulov" },
 ]
